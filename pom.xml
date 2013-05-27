@@ -24,6 +24,11 @@
             <artifactId>spock-core</artifactId>
             <version>0.7-groovy-2.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>2.11.1</version>
+        </dependency>
     </dependencies>
 
     <build>
